@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.text{
+    background-image: url(https://wallpapers.com/images/hd/cool-pineapple-beach-vacation-3nkr58ygfz8ziody.jpg);
+    height: 60rem;
+}
+.text2{
+    background-image: url(https://media.istockphoto.com/id/540977764/vector/airplane-pattern-seamless-illustration.jpg?s=612x612&w=0&k=20&c=_7_QDE0evmmhIGVw4K0beQS0N6gfmXRo8kOZFLXrcwI=);
+}
